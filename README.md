@@ -1,3 +1,3 @@
 # HackerrankMonthPreparation
 
-My solutions for Hackerrank Challenges
+My solutions for the Hackerrank Challenges.
