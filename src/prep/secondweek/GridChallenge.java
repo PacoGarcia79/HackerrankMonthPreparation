@@ -64,7 +64,7 @@ public class GridChallenge {
 
 	public static String gridChallenge(List<String> grid) {
 
-//		int n = grid.size();
+//		int n = grid.size();  //OTRA OPCIÓN
 //		
 //        String[]grid2 = new String[n];
 //        for(int i=0;i<n;i++)
